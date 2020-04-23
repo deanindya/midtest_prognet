@@ -12,14 +12,14 @@ class CategorySeeder extends Seeder
      */
     public function run()
     {
-      $data = new Category();
-      $data->name = "Work";
-      $data->color_id = 1;
-      $data->save();
+        $data = new Category();
+        $data->name = "Work";
+        $data->btn = "btn-success";
+        $data->save();
 
-      $data = new Category();
-      $data->name = "School";
-      $data->color_id = 2;
-      $data->save();
+        $data = new Category();
+        $data->name = "School";
+        $data->btn = "btn-primary";
+        $data->save();
     }
 }
