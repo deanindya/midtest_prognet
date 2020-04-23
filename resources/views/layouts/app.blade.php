@@ -65,6 +65,7 @@
 
             .img-rounded{
                 width: 80px;
+                height: 80px;
                 border-radius: 50%;
             }
 
@@ -78,7 +79,7 @@
         <div class="col-lg-6 offset-lg-3">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
-                    <a class="navbar-brand" href="/">Toedoe</a>
+                    <a class="navbar-brand" href="/">To Do List</a>
                 </div>
             </nav>
 

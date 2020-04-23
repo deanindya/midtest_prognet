@@ -3,7 +3,7 @@
 @section('content')
 
     <div class="container p-4">
-        <img src="/img/ava.jpg" alt="" class="img-rounded mb-4">
+        <img src="/img/cantik.JPG" alt="" class="img-rounded mb-4">
         
         <h3>
             <b>Hi, Anindya!</b>
